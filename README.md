@@ -25,11 +25,23 @@ In this task, students will create a simple Rust program that demonstrates the c
 5. Print the result to the console.
 6. Compile and run the program to test its functionality.
 
-## Run the ercise
+## Run the exercise
 
 1. Use `cargo build` to build rust.
 
+```
+cargo build
+```
+
 2. Use `cargo run` to execute the exercise.
 
+```
+cargo run
+```
+
 3. Use `cargo test` to execute the test.
+
+```
+cargo test
+```
 
